@@ -6,6 +6,7 @@ Practiced DSA Questions from Leetcode.....
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0047-permutations-ii) |
@@ -31,5 +32,10 @@ Practiced DSA Questions from Leetcode.....
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0027-remove-element) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
