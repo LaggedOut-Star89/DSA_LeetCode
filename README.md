@@ -11,6 +11,7 @@ Practiced DSA Questions from Leetcode.....
 | [0033-search-in-rotated-sorted-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0053-maximum-subarray) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -53,4 +54,12 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
