@@ -17,6 +17,7 @@ Practiced DSA Questions from Leetcode.....
 | [0066-plus-one](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -54,6 +55,7 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
