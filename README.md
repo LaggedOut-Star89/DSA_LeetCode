@@ -14,6 +14,7 @@ Practiced DSA Questions from Leetcode.....
 | [0053-maximum-subarray](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0066-plus-one) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -74,4 +75,8 @@ Practiced DSA Questions from Leetcode.....
 | ------- |
 | [0054-spiral-matrix](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0059-spiral-matrix-ii) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
