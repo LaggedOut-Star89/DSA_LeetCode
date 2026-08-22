@@ -86,6 +86,7 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0066-plus-one) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Quicksort
 |  |
 | ------- |
