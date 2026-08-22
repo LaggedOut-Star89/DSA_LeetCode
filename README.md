@@ -19,6 +19,7 @@ Practiced DSA Questions from Leetcode.....
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -75,6 +76,7 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 ## Matrix
 |  |
 | ------- |
