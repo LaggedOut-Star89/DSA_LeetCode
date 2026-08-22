@@ -18,6 +18,7 @@ Practiced DSA Questions from Leetcode.....
 | [0075-sort-colors](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -40,6 +41,7 @@ Practiced DSA Questions from Leetcode.....
 | ------- |
 | [0047-permutations-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +49,7 @@ Practiced DSA Questions from Leetcode.....
 | [0027-remove-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
