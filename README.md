@@ -37,6 +37,7 @@ Practiced DSA Questions from Leetcode.....
 ## String
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1927-sum-game) |
 | [3146-permutation-difference-between-two-strings](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 ## Sorting
 |  |
@@ -56,6 +57,7 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0011-container-with-most-water) |
+| [1927-sum-game](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1927-sum-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0066-plus-one) |
+| [1927-sum-game](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Quicksort
 |  |
@@ -102,4 +105,8 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0075-sort-colors) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
