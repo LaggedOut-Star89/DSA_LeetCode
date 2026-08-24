@@ -22,6 +22,7 @@ Practiced DSA Questions from Leetcode.....
 | [0118-pascals-triangle](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -30,6 +31,7 @@ Practiced DSA Questions from Leetcode.....
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3146-permutation-difference-between-two-strings](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -49,6 +51,7 @@ Practiced DSA Questions from Leetcode.....
 | [0047-permutations-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Two Pointers
 |  |
@@ -70,10 +73,12 @@ Practiced DSA Questions from Leetcode.....
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
 | [1539-kth-missing-positive-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Counting
 |  |
@@ -104,6 +109,7 @@ Practiced DSA Questions from Leetcode.....
 | ------- |
 | [0066-plus-one](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
 | [1927-sum-game](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Quicksort
