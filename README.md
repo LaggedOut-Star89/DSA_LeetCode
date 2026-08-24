@@ -21,6 +21,7 @@ Practiced DSA Questions from Leetcode.....
 | [0088-merge-sorted-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0283-move-zeroes](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -56,6 +57,7 @@ Practiced DSA Questions from Leetcode.....
 | [0075-sort-colors](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
