@@ -28,6 +28,7 @@ Practiced DSA Questions from Leetcode.....
 | [1539-kth-missing-positive-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Practiced DSA Questions from Leetcode.....
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3146-permutation-difference-between-two-strings](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Backtracking
 |  |
 | ------- |
