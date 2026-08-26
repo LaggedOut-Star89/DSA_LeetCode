@@ -30,6 +30,7 @@ Practiced DSA Questions from Leetcode.....
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1920-build-array-from-permutation](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1929-concatenation-of-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
