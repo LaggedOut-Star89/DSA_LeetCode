@@ -27,6 +27,7 @@ Practiced DSA Questions from Leetcode.....
 | [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1389-create-target-array-in-the-given-order](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -119,6 +120,7 @@ Practiced DSA Questions from Leetcode.....
 | ------- |
 | [0054-spiral-matrix](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [1389-create-target-array-in-the-given-order](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1929-concatenation-of-array) |
 ## Math
