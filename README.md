@@ -28,6 +28,7 @@ Practiced DSA Questions from Leetcode.....
 | [0283-move-zeroes](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1389-create-target-array-in-the-given-order](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1470-shuffle-the-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
