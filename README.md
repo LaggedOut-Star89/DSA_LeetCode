@@ -23,6 +23,7 @@ Practiced DSA Questions from Leetcode.....
 | [0119-pascals-triangle-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0283-move-zeroes) |
@@ -92,6 +93,7 @@ Practiced DSA Questions from Leetcode.....
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Counting
