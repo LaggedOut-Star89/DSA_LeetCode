@@ -27,6 +27,7 @@ Practiced DSA Questions from Leetcode.....
 | [0136-single-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0283-move-zeroes) |
@@ -69,6 +70,7 @@ Practiced DSA Questions from Leetcode.....
 | [0047-permutations-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Two Pointers
@@ -156,4 +158,16 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
