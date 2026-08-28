@@ -28,6 +28,7 @@ Practiced DSA Questions from Leetcode.....
 | [0137-single-number-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0283-move-zeroes) |
@@ -81,6 +82,7 @@ Practiced DSA Questions from Leetcode.....
 | [0075-sort-colors](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0283-move-zeroes) |
 ## Greedy
@@ -95,6 +97,7 @@ Practiced DSA Questions from Leetcode.....
 | [0033-search-in-rotated-sorted-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
 | [1539-kth-missing-positive-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
