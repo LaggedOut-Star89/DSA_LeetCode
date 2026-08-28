@@ -26,6 +26,7 @@ Practiced DSA Questions from Leetcode.....
 | [0128-longest-consecutive-sequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0283-move-zeroes) |
@@ -91,6 +92,7 @@ Practiced DSA Questions from Leetcode.....
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
 | [1539-kth-missing-positive-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
