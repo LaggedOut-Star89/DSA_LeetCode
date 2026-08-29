@@ -6,6 +6,7 @@ Practiced DSA Questions from Leetcode.....
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -50,6 +51,7 @@ Practiced DSA Questions from Leetcode.....
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0219-contains-duplicate-ii) |
