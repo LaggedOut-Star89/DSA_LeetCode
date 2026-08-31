@@ -32,6 +32,7 @@ Practiced DSA Questions from Leetcode.....
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
@@ -109,6 +110,7 @@ Practiced DSA Questions from Leetcode.....
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
 | [1539-kth-missing-positive-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
@@ -194,6 +196,7 @@ Practiced DSA Questions from Leetcode.....
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -203,4 +206,8 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
