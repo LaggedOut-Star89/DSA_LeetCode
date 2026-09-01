@@ -35,6 +35,7 @@ Practiced DSA Questions from Leetcode.....
 | [0209-minimum-size-subarray-sum](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -58,6 +59,7 @@ Practiced DSA Questions from Leetcode.....
 | [0128-longest-consecutive-sequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3146-permutation-difference-between-two-strings](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -83,6 +85,7 @@ Practiced DSA Questions from Leetcode.....
 | [0164-maximum-gap](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Two Pointers
@@ -124,6 +127,7 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Divide and Conquer
 |  |
@@ -193,6 +197,7 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
