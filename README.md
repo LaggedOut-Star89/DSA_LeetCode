@@ -40,6 +40,7 @@ Practiced DSA Questions from Leetcode.....
 | [0283-move-zeroes](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0349-intersection-of-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -148,6 +149,7 @@ Practiced DSA Questions from Leetcode.....
 | [0053-maximum-subarray](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0307-range-sum-query-mutable) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -239,4 +241,17 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
