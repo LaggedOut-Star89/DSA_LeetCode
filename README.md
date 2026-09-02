@@ -41,6 +41,7 @@ Practiced DSA Questions from Leetcode.....
 | [0287-find-the-duplicate-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -67,6 +68,7 @@ Practiced DSA Questions from Leetcode.....
 | [0219-contains-duplicate-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -95,6 +97,7 @@ Practiced DSA Questions from Leetcode.....
 | [0215-kth-largest-element-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Two Pointers
@@ -142,6 +145,7 @@ Practiced DSA Questions from Leetcode.....
 | ------- |
 | [0169-majority-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Divide and Conquer
 |  |
@@ -150,6 +154,7 @@ Practiced DSA Questions from Leetcode.....
 | [0169-majority-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,6 +206,7 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -224,10 +230,12 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
