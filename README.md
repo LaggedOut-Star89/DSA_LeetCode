@@ -46,6 +46,7 @@ Practiced DSA Questions from Leetcode.....
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1389-create-target-array-in-the-given-order](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -71,6 +72,7 @@ Practiced DSA Questions from Leetcode.....
 | [0347-top-k-frequent-elements](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3146-permutation-difference-between-two-strings](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -146,6 +148,7 @@ Practiced DSA Questions from Leetcode.....
 | [0169-majority-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Divide and Conquer
 |  |
