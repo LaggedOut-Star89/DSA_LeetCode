@@ -53,6 +53,7 @@ Practiced DSA Questions from Leetcode.....
 | [1539-kth-missing-positive-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1920-build-array-from-permutation](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -75,6 +76,7 @@ Practiced DSA Questions from Leetcode.....
 | [0350-intersection-of-two-arrays-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3146-permutation-difference-between-two-strings](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -105,6 +107,7 @@ Practiced DSA Questions from Leetcode.....
 | [0349-intersection-of-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,6 +122,7 @@ Practiced DSA Questions from Leetcode.....
 | [0287-find-the-duplicate-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
 | ------- |
