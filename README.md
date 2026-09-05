@@ -63,6 +63,7 @@ Practiced DSA Questions from Leetcode.....
 | [3718-smallest-missing-multiple-of-k](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -255,6 +256,7 @@ Practiced DSA Questions from Leetcode.....
 | [0209-minimum-size-subarray-sum](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [3903-smallest-stable-index-i](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
