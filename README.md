@@ -46,6 +46,7 @@ Practiced DSA Questions from Leetcode.....
 | [0350-intersection-of-two-arrays-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0500-keyboard-row) |
 | [1389-create-target-array-in-the-given-order](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1470-shuffle-the-array) |
@@ -77,6 +78,7 @@ Practiced DSA Questions from Leetcode.....
 | [0349-intersection-of-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0500-keyboard-row) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -91,6 +93,7 @@ Practiced DSA Questions from Leetcode.....
 ## String
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0500-keyboard-row) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1927-sum-game](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1927-sum-game) |
 | [3146-permutation-difference-between-two-strings](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
