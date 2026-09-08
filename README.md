@@ -202,6 +202,7 @@ Practiced DSA Questions from Leetcode.....
 | [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
 | [1927-sum-game](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Quicksort
 |  |
