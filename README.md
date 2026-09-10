@@ -197,6 +197,7 @@ Practiced DSA Questions from Leetcode.....
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
