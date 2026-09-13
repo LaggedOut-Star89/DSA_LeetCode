@@ -71,6 +71,7 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -96,6 +97,7 @@ Practiced DSA Questions from Leetcode.....
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0013-roman-to-integer) |
 | [0500-keyboard-row](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0500-keyboard-row) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1927-sum-game](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1927-sum-game) |
@@ -201,6 +203,7 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
