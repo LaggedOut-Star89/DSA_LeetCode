@@ -8,6 +8,7 @@ Practiced DSA Questions from Leetcode.....
 | ------- |
 | [0001-two-sum](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0046-permutations) |
@@ -98,6 +99,7 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0500-keyboard-row](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0500-keyboard-row) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1927-sum-game](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1927-sum-game) |
@@ -297,4 +299,8 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
