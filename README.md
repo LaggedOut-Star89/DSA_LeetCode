@@ -50,6 +50,7 @@ Practiced DSA Questions from Leetcode.....
 | [0500-keyboard-row](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0575-distribute-candies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [1207-unique-number-of-occurrences](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1470-shuffle-the-array) |
@@ -86,6 +87,7 @@ Practiced DSA Questions from Leetcode.....
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0575-distribute-candies) |
+| [1207-unique-number-of-occurrences](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
