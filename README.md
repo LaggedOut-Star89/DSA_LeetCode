@@ -110,6 +110,7 @@ Practiced DSA Questions from Leetcode.....
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1927-sum-game](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1927-sum-game) |
 | [3146-permutation-difference-between-two-strings](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3498-reverse-degree-of-a-string](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -207,6 +208,7 @@ Practiced DSA Questions from Leetcode.....
 | [1389-create-target-array-in-the-given-order](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
