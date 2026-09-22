@@ -212,6 +212,7 @@ Practiced DSA Questions from Leetcode.....
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0066-plus-one) |
@@ -303,6 +304,7 @@ Practiced DSA Questions from Leetcode.....
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0002-add-two-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -312,4 +314,8 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
