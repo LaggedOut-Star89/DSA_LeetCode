@@ -13,6 +13,7 @@ Practiced DSA Questions from Leetcode.....
 | [0033-search-in-rotated-sorted-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -77,6 +78,7 @@ Practiced DSA Questions from Leetcode.....
 | [0001-two-sum](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -107,6 +109,7 @@ Practiced DSA Questions from Leetcode.....
 | [0003-longest-substring-without-repeating-characters](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0049-group-anagrams) |
 | [0500-keyboard-row](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0500-keyboard-row) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1927-sum-game](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1927-sum-game) |
@@ -116,6 +119,7 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0164-maximum-gap) |
