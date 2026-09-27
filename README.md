@@ -60,6 +60,7 @@ Practiced DSA Questions from Leetcode.....
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -93,6 +94,7 @@ Practiced DSA Questions from Leetcode.....
 | [1207-unique-number-of-occurrences](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3146-permutation-difference-between-two-strings](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -112,6 +114,7 @@ Practiced DSA Questions from Leetcode.....
 | [0049-group-anagrams](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0049-group-anagrams) |
 | [0500-keyboard-row](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0500-keyboard-row) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1927-sum-game) |
 | [3146-permutation-difference-between-two-strings](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3498-reverse-degree-of-a-string) |
