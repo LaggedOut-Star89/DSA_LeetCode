@@ -66,6 +66,7 @@ Practiced DSA Questions from Leetcode.....
 | [2016-maximum-difference-between-increasing-elements](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -96,6 +97,7 @@ Practiced DSA Questions from Leetcode.....
 | [1679-max-number-of-k-sum-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3146-permutation-difference-between-two-strings](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
