@@ -345,4 +345,8 @@ Practiced DSA Questions from Leetcode.....
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
