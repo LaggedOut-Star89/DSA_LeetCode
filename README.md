@@ -181,6 +181,7 @@ Practiced DSA Questions from Leetcode.....
 | ------- |
 | [0136-single-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -231,6 +232,7 @@ Practiced DSA Questions from Leetcode.....
 | [0013-roman-to-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
 | [1927-sum-game](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1927-sum-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -320,6 +322,7 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
