@@ -368,10 +368,12 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -380,4 +382,9 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
