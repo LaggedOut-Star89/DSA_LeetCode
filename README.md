@@ -364,4 +364,20 @@ Practiced DSA Questions from Leetcode.....
 | ------- |
 | [0175-combine-two-tables](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
