@@ -119,6 +119,7 @@ Practiced DSA Questions from Leetcode.....
 | [0500-keyboard-row](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0500-keyboard-row) |
 | [0856-score-of-parentheses](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -351,6 +352,7 @@ Practiced DSA Questions from Leetcode.....
 | [0071-simplify-path](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0071-simplify-path) |
 | [0856-score-of-parentheses](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -360,6 +362,7 @@ Practiced DSA Questions from Leetcode.....
 | [0020-valid-parentheses](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
