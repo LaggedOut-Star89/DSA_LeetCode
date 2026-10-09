@@ -377,6 +377,7 @@ Practiced DSA Questions from Leetcode.....
 | [0183-customers-who-never-order](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0196-delete-duplicate-emails) |
+| [0511-game-play-analysis-i](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0511-game-play-analysis-i) |
 ## Tree
 |  |
 | ------- |
