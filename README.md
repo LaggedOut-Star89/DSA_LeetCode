@@ -51,6 +51,7 @@ Practiced DSA Questions from Leetcode.....
 | [0500-keyboard-row](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0575-distribute-candies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0888-fair-candy-swap](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0888-fair-candy-swap) |
 | [1207-unique-number-of-occurrences](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -93,6 +94,7 @@ Practiced DSA Questions from Leetcode.....
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0575-distribute-candies) |
+| [0888-fair-candy-swap](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0888-fair-candy-swap) |
 | [1207-unique-number-of-occurrences](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -144,6 +146,7 @@ Practiced DSA Questions from Leetcode.....
 | [0347-top-k-frequent-elements](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0888-fair-candy-swap](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0888-fair-candy-swap) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
@@ -181,6 +184,7 @@ Practiced DSA Questions from Leetcode.....
 | [0287-find-the-duplicate-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0888-fair-candy-swap](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0888-fair-candy-swap) |
 | [1539-kth-missing-positive-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
