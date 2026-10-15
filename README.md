@@ -69,6 +69,7 @@ Practiced DSA Questions from Leetcode.....
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -101,6 +102,7 @@ Practiced DSA Questions from Leetcode.....
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -322,10 +324,12 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sqrt Decomposition
 |  |
 | ------- |
