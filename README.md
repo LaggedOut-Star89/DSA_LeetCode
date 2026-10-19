@@ -65,6 +65,7 @@ Practiced DSA Questions from Leetcode.....
 | [1920-build-array-from-permutation](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -151,6 +152,7 @@ Practiced DSA Questions from Leetcode.....
 | [0888-fair-candy-swap](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0888-fair-candy-swap) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -188,6 +190,7 @@ Practiced DSA Questions from Leetcode.....
 | [0350-intersection-of-two-arrays-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0888-fair-candy-swap](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0888-fair-candy-swap) |
 | [1539-kth-missing-positive-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
