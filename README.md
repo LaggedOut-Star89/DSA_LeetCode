@@ -397,6 +397,7 @@ Practiced DSA Questions from Leetcode.....
 | [0595-big-countries](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0619-biggest-single-number) |
+| [1148-article-views-i](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1148-article-views-i) |
 ## Tree
 |  |
 | ------- |
