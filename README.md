@@ -135,6 +135,7 @@ Practiced DSA Questions from Leetcode.....
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2409-count-days-spent-together) |
 | [3146-permutation-difference-between-two-strings](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
@@ -255,6 +256,7 @@ Practiced DSA Questions from Leetcode.....
 | [0231-power-of-two](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
 | [1927-sum-game](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3870-count-commas-in-range) |
