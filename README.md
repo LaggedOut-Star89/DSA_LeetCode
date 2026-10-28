@@ -370,6 +370,7 @@ Practiced DSA Questions from Leetcode.....
 | [0071-simplify-path](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0856-score-of-parentheses](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -413,6 +414,7 @@ Practiced DSA Questions from Leetcode.....
 | [0100-same-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -421,6 +423,7 @@ Practiced DSA Questions from Leetcode.....
 | [0100-same-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -434,6 +437,7 @@ Practiced DSA Questions from Leetcode.....
 | [0100-same-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
