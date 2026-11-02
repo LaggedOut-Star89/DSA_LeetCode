@@ -49,6 +49,7 @@ Practiced DSA Questions from Leetcode.....
 | [0349-intersection-of-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0575-distribute-candies) |
@@ -157,6 +158,7 @@ Practiced DSA Questions from Leetcode.....
 | [0347-top-k-frequent-elements](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0888-fair-candy-swap](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0888-fair-candy-swap) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -261,6 +263,7 @@ Practiced DSA Questions from Leetcode.....
 | [0189-rotate-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1927-sum-game](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
