@@ -226,6 +226,7 @@ Practiced DSA Questions from Leetcode.....
 | [0053-maximum-subarray](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0307-range-sum-query-mutable) |
@@ -374,6 +375,7 @@ Practiced DSA Questions from Leetcode.....
 | [0002-add-two-numbers](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
@@ -428,6 +430,7 @@ Practiced DSA Questions from Leetcode.....
 | [0104-maximum-depth-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -459,6 +462,7 @@ Practiced DSA Questions from Leetcode.....
 | [0104-maximum-depth-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -470,5 +474,6 @@ Practiced DSA Questions from Leetcode.....
 ## Binary Search Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
