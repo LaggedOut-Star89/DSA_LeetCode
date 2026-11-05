@@ -56,6 +56,7 @@ Practiced DSA Questions from Leetcode.....
 | [0674-longest-continuous-increasing-subsequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0888-fair-candy-swap](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0888-fair-candy-swap) |
 | [1207-unique-number-of-occurrences](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1470-shuffle-the-array) |
@@ -161,6 +162,7 @@ Practiced DSA Questions from Leetcode.....
 | [0350-intersection-of-two-arrays-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0888-fair-candy-swap](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0888-fair-candy-swap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -178,6 +180,7 @@ Practiced DSA Questions from Leetcode.....
 | [0287-find-the-duplicate-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
@@ -200,6 +203,7 @@ Practiced DSA Questions from Leetcode.....
 | [0349-intersection-of-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0888-fair-candy-swap](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0888-fair-candy-swap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
