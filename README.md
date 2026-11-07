@@ -435,6 +435,7 @@ Practiced DSA Questions from Leetcode.....
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -447,6 +448,7 @@ Practiced DSA Questions from Leetcode.....
 | [0100-same-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -470,6 +472,7 @@ Practiced DSA Questions from Leetcode.....
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
