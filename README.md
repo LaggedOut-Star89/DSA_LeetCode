@@ -56,6 +56,7 @@ Practiced DSA Questions from Leetcode.....
 | [0674-longest-continuous-increasing-subsequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0888-fair-candy-swap](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0888-fair-candy-swap) |
 | [1207-unique-number-of-occurrences](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1267-count-servers-that-communicate](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -222,6 +223,7 @@ Practiced DSA Questions from Leetcode.....
 | [0169-majority-element](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1267-count-servers-that-communicate](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Divide and Conquer
@@ -248,6 +250,7 @@ Practiced DSA Questions from Leetcode.....
 | ------- |
 | [0054-spiral-matrix](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [1267-count-servers-that-communicate](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
@@ -293,6 +296,7 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -453,6 +457,7 @@ Practiced DSA Questions from Leetcode.....
 | [0144-binary-tree-preorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -461,6 +466,7 @@ Practiced DSA Questions from Leetcode.....
 | [0102-binary-tree-level-order-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
