@@ -444,6 +444,7 @@ Practiced DSA Questions from Leetcode.....
 | [0144-binary-tree-preorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -458,6 +459,7 @@ Practiced DSA Questions from Leetcode.....
 | [0144-binary-tree-preorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
@@ -486,6 +488,7 @@ Practiced DSA Questions from Leetcode.....
 | [0144-binary-tree-preorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
@@ -496,5 +499,14 @@ Practiced DSA Questions from Leetcode.....
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0450-delete-node-in-a-bst) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
