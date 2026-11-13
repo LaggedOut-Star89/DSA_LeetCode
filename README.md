@@ -124,6 +124,7 @@ Practiced DSA Questions from Leetcode.....
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0047-permutations-ii) |
+| [0257-binary-tree-paths](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
 ## String
 |  |
 | ------- |
@@ -134,6 +135,7 @@ Practiced DSA Questions from Leetcode.....
 | [0020-valid-parentheses](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0071-simplify-path) |
+| [0257-binary-tree-paths](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
 | [0500-keyboard-row](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0500-keyboard-row) |
 | [0856-score-of-parentheses](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -446,6 +448,7 @@ Practiced DSA Questions from Leetcode.....
 | [0145-binary-tree-postorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -461,6 +464,7 @@ Practiced DSA Questions from Leetcode.....
 | [0145-binary-tree-postorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
@@ -490,6 +494,7 @@ Practiced DSA Questions from Leetcode.....
 | [0145-binary-tree-postorder-traversal](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/LaggedOut-Star89/DSA_LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
